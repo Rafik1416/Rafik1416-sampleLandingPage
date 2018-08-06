@@ -1,0 +1,31 @@
+
+body{
+      background-image: url(pexels-photo-1133504.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-fluid{
+   
+}
+
+.row{
+    text-align: center;
+    justify-content: center;
+}
+
+.display-1{
+    margin-top: 10%;
+    color: white;
+}
+
+.btn-dark{
+    width: 10rem;
+    border-radius: 20px;
+    margin-top: 3%;
+    background-color:
+}
+
+.btn-dark:hover{
+
+}
