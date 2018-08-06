@@ -1,12 +1,7 @@
-
 body{
       background-image: url(pexels-photo-1133504.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
-}
-
-.container-fluid{
-   
 }
 
 .row{
@@ -24,8 +19,4 @@ body{
     border-radius: 20px;
     margin-top: 3%;
     background-color:
-}
-
-.btn-dark:hover{
-
 }
